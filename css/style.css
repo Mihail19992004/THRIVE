@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    background: white;
+    position: relative;
+
+}
+header img {
+    padding-top: 39px;
+    padding-left: 50px;
+}
+header h1 {
+    padding-left: 412px;
+    padding-top: 118px;
+    font-size: 72px;
+}
+header>p {
+    font-size: 32px;
+    padding-left: 414px;
+    padding-top: 20px;
+}
+.mb {
+    position: absolute;
+    top: 227px;
+    font-size: 16px;
+    left: -205px;
+    color: #A259FF;
+}
+.header-flex {
+    padding-left: 414px;
+    display: flex;
+    align-items: center;
+
+
+}
+.header-flex p {
+    padding-right: 70px;
+    font-size: 24px;
+    color: #1ABCFE;
+
+}
+.header-end {
+
+    padding-top: 123px;
+    font-size: 20px;
+}
